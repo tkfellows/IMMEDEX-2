@@ -1,0 +1,508 @@
+{
+  "reviews": [
+    {
+      "comment": "Very accommodating place when it comes to language barrier, all the required services are available in the same building, very easy and transparent booking process, you pay what is mentioned online, no additional extra hidden charges or costs and overall process is very fast and smooth.", 
+      "updateTime": "2023-04-29T19:16:55.339269Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqk7Eo2Dx4ZQPFThRE5qfEsyUqOFiX60FI7quXRr8eEfyaNz4YHNm7bB4cOTXyZHgMqaJU5GQw", 
+      "reviewId": "AbFvOqk7Eo2Dx4ZQPFThRE5qfEsyUqOFiX60FI7quXRr8eEfyaNz4YHNm7bB4cOTXyZHgMqaJU5GQw", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtfxtlhVkn2XLxjPBQjCYAZHNTUKq-lE4T3XWeyy=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Nilam Patel"
+      }, 
+      "createTime": "2023-04-29T19:16:55.339269Z"
+    }, 
+    {
+      "comment": "First experience of anything Canada medical related and it was great. Clean and calm atmosphere. Would definitely recommend. Very nice and patient staff even with my needle phobia. Thank you especially to Dr Lianne and the very nice receptionist", 
+      "updateTime": "2022-10-25T14:43:33.007521Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqliYa2asGeLSldgIygvWEAOcnBKDgMU4lu19tOmwZy1TEgr94QV6BI0OZslfanDqZANSPvi", 
+      "reviewId": "AbFvOqliYa2asGeLSldgIygvWEAOcnBKDgMU4lu19tOmwZy1TEgr94QV6BI0OZslfanDqZANSPvi", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTt-IjelFrktCa0cOrqoryeznFcf_tFJGrhDmFj=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Shireen A"
+      }, 
+      "createTime": "2022-10-25T14:43:33.007521Z"
+    }, 
+    {
+      "comment": "The worst place I have ever been. My boyfriend and I went there for a body check. In a few days, my boyfriend got an email telling him there is something abnormal in the report. I received no email but it was actually about my report instead my boyfriend\u2019s. After paying an extra 40 dollar fee for a further talk with the doctor, no response was given by them. After I called them, the reception claimed no fee was received and asked me to forward the confirmation of the payment. I did that immediately and then no one answered my phone for that whole day. In the next day, I called again and was told they had sent me an email confirming the doctor would call me on that day between 9 and 13. No email was received by me, and no call was received on that day. Same, no one answered my phone any more! It was such a bad experience.", 
+      "updateTime": "2022-07-30T17:38:43.889191Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnGaa9wnihqd_dZ78SGhBgA5shNgYo5lJfLTKf5K9BpQ6lxb87wSpDBzR0xKmJexjpaPpIEAg", 
+      "reviewId": "AbFvOqnGaa9wnihqd_dZ78SGhBgA5shNgYo5lJfLTKf5K9BpQ6lxb87wSpDBzR0xKmJexjpaPpIEAg", 
+      "starRating": "ONE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTXnp-d-ZiyXGX94dCaNGJO4BBrGivNYrbBnpI=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Yifei Zhang"
+      }, 
+      "reviewReply": {
+        "comment": "Dear Yifei,\n\nAt IMMEDEX client confidentiality is our priority and we do not send personal health information without your consent.  As you experienced, we have our client's sign a consent form at their appointment and we only contact them at their provided phone number/email address. After doing an internal review we can confirm that this was the case in your situation and the medical information was only discussed through a phone call with the doctor. We do apologize for the delay in response from our doctor. We are committed to providing timely care and ensure a rapid response with urgent results. Our doctors provide care in various clinical settings, including hospitals, and unfortunately emergencies do arise and rarely there may be a small delay in communicating non urgent results. We appreciate your understanding in these unforeseen circumstances.", 
+        "updateTime": "2022-08-12T14:53:39.672021Z"
+      }, 
+      "createTime": "2022-07-30T17:38:43.889191Z"
+    }, 
+    {
+      "comment": "I made my immigration exam there, Dr. Lianne was very professional and quick, the clinic is very organized and everything went smoothly.", 
+      "updateTime": "2022-07-19T01:10:14.827138Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkvXIpZDm-kUqMAlOGjSugWCRn2TJAuIfL6rcoBX3Jzvf9A9Wc8smy7NGnachxsU_WeQGEz1A", 
+      "reviewId": "AbFvOqkvXIpZDm-kUqMAlOGjSugWCRn2TJAuIfL6rcoBX3Jzvf9A9Wc8smy7NGnachxsU_WeQGEz1A", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTR69QB6CrAJX1lE7vZdvLJ8eMvzovAl5xa3qzMLQ=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Bishoy Gerges"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting us with your immigration medical exam! All the best!", 
+        "updateTime": "2022-08-12T14:54:06.395984Z"
+      }, 
+      "createTime": "2022-07-19T01:10:14.827138Z"
+    }, 
+    {
+      "comment": "This place is really best for medical test as per my experience. Appointment booking is so easy no unnecessary question no any hassle seamlessly u can book appoint, fees is fair and Dr butterfill is experience and even other staff is also good with there knowledge, neat and clean place. Highly recommended.", 
+      "updateTime": "2022-04-25T14:08:05.548835Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqmEye_VmGAhCyAwQgfglnfni-FPuXOjbyc9ZOs4RPlW6m_DQb1z4I-VmkWg2gPgthn7qk_Zow", 
+      "reviewId": "AbFvOqmEye_VmGAhCyAwQgfglnfni-FPuXOjbyc9ZOs4RPlW6m_DQb1z4I-VmkWg2gPgthn7qk_Zow", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMQVeeLlYfGmHvOMWoPMV2ajsmVsLoB66xgdCbXM=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "mohd javed ahmed"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feed back! Our team at IMMEDEX GTA always want to ensure that all of our patients expectations are met from the moment they book their appointment to when we submit their  case to IRCC! We truly appreciate you trusting IMMEDEX GTA with your Immigration Medical Exam!", 
+        "updateTime": "2022-04-26T12:41:50.119747Z"
+      }, 
+      "createTime": "2022-04-25T13:58:49.862162Z"
+    }, 
+    {
+      "comment": "From booking, medical check up to submitting results to IRCC, the entire process has been smooth and highly efficient. The customer service staff is friendly and helpful. Dr. Butterfilll is experienced and she kept everything smooth and quick. They have X-rays and blood test in the same building so it could definitely save time on commute. IRCC received the results in just 4 days. Price is fair and transparent. Highly recommend people to go if they need to have IRCC medical exams done.", 
+      "updateTime": "2022-04-23T23:14:03.894227Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqlXAqB12ZoQWkO510y0XnyMWvDKJ0jxku_R6wWE8nKns-G-NgQbkeYAGOLlL8WYHx4GmWewxw", 
+      "reviewId": "AbFvOqlXAqB12ZoQWkO510y0XnyMWvDKJ0jxku_R6wWE8nKns-G-NgQbkeYAGOLlL8WYHx4GmWewxw", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTFIBPAZDlEs8agBznurJElSQE34iraUoN646yRFls=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Agnes Mak"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feed back. We do appreciate your kind words as well as trusting us with your IME. Here at Immedex, we try our best to make our patients feel the most comfortable as well as ensuring we meet your expectations from us!", 
+        "updateTime": "2022-04-25T14:00:08.392568Z"
+      }, 
+      "createTime": "2022-04-23T23:14:03.894227Z"
+    }, 
+    {
+      "updateTime": "2022-03-29T03:10:42.686904Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkVzH9KVmayLSQAwxNAG-7kA9Eu-A5xFsBbHCwSGAQkztsR3V9nzG0t_PnHc5BaBRJcWANcaw", 
+      "reviewId": "AbFvOqkVzH9KVmayLSQAwxNAG-7kA9Eu-A5xFsBbHCwSGAQkztsR3V9nzG0t_PnHc5BaBRJcWANcaw", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMQ7f4B0F1b3ZRPgJq7yVhTYrAD2OsZVmK5GZO1zNA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Dulanga Perera"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feedback!", 
+        "updateTime": "2022-04-25T14:01:51.099211Z"
+      }, 
+      "createTime": "2022-03-29T03:10:42.686904Z"
+    }, 
+    {
+      "comment": "I went there for my medical exam and had a really good experience.Dr. Butterfill was professional and friendly and Receptionist was really helpful and courteous.The whole process was smooth and quick.I recommend Immedex GTA if your are looking for a fast and smooth medical exam.", 
+      "updateTime": "2022-02-10T21:22:47.383318Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnec9ErshEJp0SN1f7Amzj77RWn5tN0-JWlrDIQG61_PKVeSg-_YqNlD1tXorg9ceKSQ8UF9Q", 
+      "reviewId": "AbFvOqnec9ErshEJp0SN1f7Amzj77RWn5tN0-JWlrDIQG61_PKVeSg-_YqNlD1tXorg9ceKSQ8UF9Q", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTte4VQIWNhUdYXw5aQiFGcl5tYSrXojy7AvtQh0QYQ=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "S"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feed back. We do appreciate your kind words as well as trusting us with your Immigration Medical Exam. We always want to ensure that your experience with us meet your expectations!", 
+        "updateTime": "2022-04-25T14:03:01.796820Z"
+      }, 
+      "createTime": "2022-02-10T21:22:47.383318Z"
+    }, 
+    {
+      "comment": "This is not your usual medical clinic, from the booking system to exam process,  the entire experience is seamless and smooth. Dr.Butterfill is the most kind and caring doctor I've ever met, staffs at the reception are very welcoming and courteous. My parents really appreciated all the care and service provided by Dr.Butterfill's office.", 
+      "updateTime": "2021-12-04T16:41:40.036635Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnoK6tcArsIueuvZ0hHFO-0IPAn-tMyC_iXmxA9u8BBzZPzvRLpFKkMXqc5pkm1RGkh0m5D", 
+      "reviewId": "AbFvOqnoK6tcArsIueuvZ0hHFO-0IPAn-tMyC_iXmxA9u8BBzZPzvRLpFKkMXqc5pkm1RGkh0m5D", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTlbUZ5UsROBhoMXoxAKkg7Elu_XCptxcx1-dpXnDg=s120-c-c0x00000000-cc-rp-mo-ba3-br100", 
+        "displayName": "Alec Yu"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feed back. We do appreciate your kind words as well as trusting us with your Immigration Medical Exam. We always want to ensure that your experience with us meet your expectations and that you feel the most comfortable!", 
+        "updateTime": "2022-04-25T14:03:32.890167Z"
+      }, 
+      "createTime": "2021-12-04T16:41:40.036635Z"
+    }, 
+    {
+      "updateTime": "2021-11-06T14:13:10.618224Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqk5378qlfl9AtLQT1e1x0SUs0zL0w1yChqNe_XRTIVdCQnwNFLjZkrBgBs5PpJZb-h2T3mUuA", 
+      "reviewId": "AbFvOqk5378qlfl9AtLQT1e1x0SUs0zL0w1yChqNe_XRTIVdCQnwNFLjZkrBgBs5PpJZb-h2T3mUuA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMSe2eQAeIUnaYi5d_0cy_kJL68NxLl5MeSPJZ5W=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Akxa Antony"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you so much for your positive feedback!", 
+        "updateTime": "2022-04-25T14:03:44.079969Z"
+      }, 
+      "createTime": "2021-11-06T14:13:10.618224Z"
+    }, 
+    {
+      "comment": "Staff was very welcoming and fast. Was able to get my tests done within the time frame they game.", 
+      "updateTime": "2021-10-05T17:13:24.675768Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnncGGs8PVIhKcXOEjeDQkpk29xaFkw_yxPUCEIi3m7QZUPfzy5zaYPBtGGYiFb2Wg0LhKrEA", 
+      "reviewId": "AbFvOqnncGGs8PVIhKcXOEjeDQkpk29xaFkw_yxPUCEIi3m7QZUPfzy5zaYPBtGGYiFb2Wg0LhKrEA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMQ1ad1igvxRU-4BxhcU-eHawNGUW7GVzwPi1eMp6Q=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "KaPauuu"
+      }, 
+      "reviewReply": {
+        "comment": "Our team at Immedex always prioritize our guests experience with us and always want to ensure its a fast & pleasant experience! Thank you for trusting Immedex with your Immigration medical.", 
+        "updateTime": "2021-10-06T18:19:49.513294Z"
+      }, 
+      "createTime": "2021-10-05T17:13:24.675768Z"
+    }, 
+    {
+      "comment": "Dr. Leanne is a wonderful physician and the staff at the reception was very courteous. The exam took less time and we had a great experience in this clinic. I will recommend this for anyone need their services.", 
+      "updateTime": "2021-09-29T18:54:42.618781Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkSPa9n7F-7SkXUqDh-6o9KLw_uLV5uxeYcAmhb4MRe5WajVBGNY_UFPtkAPSV692QQoMlquQ", 
+      "reviewId": "AbFvOqkSPa9n7F-7SkXUqDh-6o9KLw_uLV5uxeYcAmhb4MRe5WajVBGNY_UFPtkAPSV692QQoMlquQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtfxsr8jz02zXWxz9qqwP8habVhT1u4asAVxAQzP=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Abdul Subor Momand"
+      }, 
+      "reviewReply": {
+        "comment": "Our team at Immedex always try to ensure that our guests have an amazing experience with us. Thank you for trusting Immedex with your Immigration Medical!", 
+        "updateTime": "2021-10-05T20:14:57.897963Z"
+      }, 
+      "createTime": "2021-09-29T18:54:42.618781Z"
+    }, 
+    {
+      "comment": "I had a wonderful experience at this place. Dr. Lianne is the best physician. The medical examination is faster than the given scheduled time frame and I find it little cheaper than other test centers. Definitely, I recommend this place to whoever wants to have their medicals for immigration. Don't forget to carry $50 cash, where we have to pay for scanning.", 
+      "updateTime": "2021-09-24T19:18:44.001242Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOql3nzUmUMVJvEHvwZdpvYxWhzaKPWsdrTttRfbKSMOweF-39U8MlpjN8JlWjEUKJwz-W-pyIA", 
+      "reviewId": "AbFvOql3nzUmUMVJvEHvwZdpvYxWhzaKPWsdrTttRfbKSMOweF-39U8MlpjN8JlWjEUKJwz-W-pyIA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMT5hE3_5S9XmlddvTWkXebMUj_BSLzfb-9UUwFdJQ=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "shiva chary"
+      }, 
+      "reviewReply": {
+        "comment": "We are happy to hear that you had a great experience with Immedex. We certainly try our best to always exceed our guests expectations. We agree, Dr. Lianne is the best. Thank you for trusting Immedex with your Immigration Medical!", 
+        "updateTime": "2021-10-05T19:44:12.579595Z"
+      }, 
+      "createTime": "2021-09-24T19:16:17.572218Z"
+    }, 
+    {
+      "comment": "My immigration medical appointment with IMMEDEX was amazing. Doctor was patient, gentle and understanding. The process was also very fast. I would use their services again and recommend them to others", 
+      "updateTime": "2021-09-22T12:47:14.099611Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqmAaAnHi8XbroRyp4GDVwbF5e_fz-dUegFGSxWGFphCwsht6yLKVSM9JfT0ZjB0yJ96-Fxr", 
+      "reviewId": "AbFvOqmAaAnHi8XbroRyp4GDVwbF5e_fz-dUegFGSxWGFphCwsht6yLKVSM9JfT0ZjB0yJ96-Fxr", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtfcnXyYf0OW3EHd_VGEgWvqeHzOh431_H4qbFE_=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Sharmicka Phillips"
+      }, 
+      "reviewReply": {
+        "comment": "At Immedex, we always try to ensure that our guests have an amazing experience. Dr. Lianne always prioritizes the comfort of her patients as well. Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-06T13:32:03.501312Z"
+      }, 
+      "createTime": "2021-09-22T12:47:14.099611Z"
+    }, 
+    {
+      "comment": "Recently had my medical exam for immigration done here. The staff were professional and the doctor very gentle and friendly. Would recommend.", 
+      "updateTime": "2021-09-21T22:17:35.025273Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkBslf-PiSFZMlS4hXm93_9vPW0GXqn383iI50iGfE4Pev9zOYQmGa7l2mRHlGToizZE3Tk", 
+      "reviewId": "AbFvOqkBslf-PiSFZMlS4hXm93_9vPW0GXqn383iI50iGfE4Pev9zOYQmGa7l2mRHlGToizZE3Tk", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMTruOYeTblKQK-6Dd3qST04WgVh_AGEgod5dfZRNJU=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Anushka Ramessur"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! Dr. Lianne always does her best to ensure that her patients are as comfortable as possible during their examination.", 
+        "updateTime": "2021-10-06T13:34:19.386267Z"
+      }, 
+      "createTime": "2021-09-21T22:17:35.025273Z"
+    }, 
+    {
+      "comment": "Excellent and prompt service. The facility is always clean and they are very good about sanitization. Highly recommend!", 
+      "updateTime": "2021-09-21T22:05:32.557514Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqlKOt7YqW5dTsOMEjhTOwcX-npVPh7oENdjCPK3WRp7s1XZPHlnpFok_a9jFW6KHUsLYirE-g", 
+      "reviewId": "AbFvOqlKOt7YqW5dTsOMEjhTOwcX-npVPh7oENdjCPK3WRp7s1XZPHlnpFok_a9jFW6KHUsLYirE-g", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtdAcI3K0oQxwP-7JdV6oNMO0AbTNT8gPhrE8HQP=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Niloofer Plasticwala"
+      }, 
+      "reviewReply": {
+        "comment": "Cleanliness is one of our main priorities at Immedex, especially during this pandemic. We want to always ensure that we are keeping our space as safe as possible for all of our guests.", 
+        "updateTime": "2021-10-05T20:05:41.923948Z"
+      }, 
+      "createTime": "2021-09-21T22:05:32.557514Z"
+    }, 
+    {
+      "comment": "Very pleasant, professional and straight forward. You can do all the test right in the same building. So convenient.", 
+      "updateTime": "2021-09-21T16:46:43.164749Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqlL9IWWCXm4oBRDYgXYQtL8XYuKGRgbamn4lzQMLNtGXzgBj4tsq93ppKsGrUAQCPfo9QDL", 
+      "reviewId": "AbFvOqlL9IWWCXm4oBRDYgXYQtL8XYuKGRgbamn4lzQMLNtGXzgBj4tsq93ppKsGrUAQCPfo9QDL", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtdJJ5xk_4ijju2WRc14gb0T_BvA3sMcNzWOYfwm=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Kimberly Rolle"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We always try to make sure that our guests are always satisfied with their visit at Immedex!", 
+        "updateTime": "2021-10-06T18:15:43.783346Z"
+      }, 
+      "createTime": "2021-09-21T16:46:43.164749Z"
+    }, 
+    {
+      "comment": "Dr Lianne and her staff did an amazing and efficient job. I was out and about in just 20 mins. Highly recommend this place.", 
+      "updateTime": "2021-09-21T14:59:15.191121Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqn4q3YLS2RnzEeri6tBvM_ntXPU9obn4tKqfT2NrDFq1kj00UFauOtN1oOoD-MjVTwH5XO3", 
+      "reviewId": "AbFvOqn4q3YLS2RnzEeri6tBvM_ntXPU9obn4tKqfT2NrDFq1kj00UFauOtN1oOoD-MjVTwH5XO3", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtevGyEbR_EechLeuJS9kXKiHNrDvOLTDuQaUU6ilg=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Manpreet Singh"
+      }, 
+      "reviewReply": {
+        "comment": "Dr. Lianne is certainly one of the best and fastest panel physician out there! Our team at Immedex always prioritize our guests experience with us! Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-06T18:21:03.808145Z"
+      }, 
+      "createTime": "2021-09-21T14:59:15.191121Z"
+    }, 
+    {
+      "comment": "I went today for my medical exam I had amazing experience here. Also my check up done by Dr. Lianne Butterfill and she was very professional and friendly. All process was done very quickly and they also clear my doubts about the exam also they have all check up in one place so no one have to go at any different location to do other test. ALL IN ONE PLACE WHICH really save time. definitely would love to recommend this place to one who need medical examination for their immigration", 
+      "updateTime": "2021-09-21T06:34:30.541662Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqmYAn3t0Z8SoNEolqP0YcwziyFa1kR28y3Xc1-Rnl_sZn3McV2YeE2BGnXJEmGM2V1WMiFE9A", 
+      "reviewId": "AbFvOqmYAn3t0Z8SoNEolqP0YcwziyFa1kR28y3Xc1-Rnl_sZn3McV2YeE2BGnXJEmGM2V1WMiFE9A", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMReyW8Mv4aWaLXHjkYFugZFXYXCanHKINHo1CE9Qw=s120-c-c0x00000000-cc-rp-mo-ba2-br100", 
+        "displayName": "jayant bhatt"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration Medical! We agree that Dr. Lianne is one of the bests out there! Our priority is to make sure that all of our guests have a smooth/ convenient experience from start to finish!", 
+        "updateTime": "2021-10-05T19:48:47.121393Z"
+      }, 
+      "createTime": "2021-09-21T06:34:30.541662Z"
+    }, 
+    {
+      "comment": "I booked an appointment at IMMEDEX for my Immigration medical exam. Doctor Lianne was very friendly and quick with the appointment. it was a very comfortable experience! I highly recommend this location. Wishing everyone all the best and stay safe.", 
+      "updateTime": "2021-09-20T18:40:21.758227Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkrA_4ZanXBYLJNMzznJUltlA2BrRyyODJKiGpSGgwgZ9eIVjjdyi6B00QSuqr5HyILFSxnYA", 
+      "reviewId": "AbFvOqkrA_4ZanXBYLJNMzznJUltlA2BrRyyODJKiGpSGgwgZ9eIVjjdyi6B00QSuqr5HyILFSxnYA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMR58F89h22ZWZQCWauyDCecoV4TR1WX8NxPZv9S4w=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Anwar Sawi"
+      }, 
+      "reviewReply": {
+        "comment": "Dr. Lianne is for sure one of the friendliest panel physicians out there. We are glad to hear you had a great experience with us! Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-06T18:22:30.610004Z"
+      }, 
+      "createTime": "2021-09-20T18:40:21.758227Z"
+    }, 
+    {
+      "comment": "I booked my medical exam for my PR application. Even though my English is not fluent, they were very kind and hole process was very smooth.", 
+      "updateTime": "2021-09-20T18:09:14.718790Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkECUSzi1n_3uW9_f9dobKA1KsE4fgJQB1IigEDGWp5F6-zVFrAOEAPC5JYFUYOIDgH2sJJ4Q", 
+      "reviewId": "AbFvOqkECUSzi1n_3uW9_f9dobKA1KsE4fgJQB1IigEDGWp5F6-zVFrAOEAPC5JYFUYOIDgH2sJJ4Q", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtfkWUF-kgwDw9F78o9I3njQwz-LbMb9-tWLOxBh=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Mayuko G"
+      }, 
+      "reviewReply": {
+        "comment": "At Immedex, we always want to ensure that our guests feel the most comfortable during their visit. We never want anyone to feel like there is any type barrier especially a language barrier. We are more than happy to take everything step by step to ensure all our of guests understand the whole examination process. Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-06T18:25:51.266274Z"
+      }, 
+      "createTime": "2021-09-20T18:09:14.718790Z"
+    }, 
+    {
+      "comment": "Very nice and fast service. Also the reception very helpful.", 
+      "updateTime": "2021-09-20T17:27:59.017078Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnfFVujSRfHvrSq04qjUzQ3NNq7887U7Vt_VTN2mjLaJVYTV-qJGpib9gSurH_njn4rD7FCOg", 
+      "reviewId": "AbFvOqnfFVujSRfHvrSq04qjUzQ3NNq7887U7Vt_VTN2mjLaJVYTV-qJGpib9gSurH_njn4rD7FCOg", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTteTUuzULAF2lC_9V7i211_0mngjbxqoezfXCqJk=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "ibrahim idris"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We always try to make sure our guests have an amazing experience with us!", 
+        "updateTime": "2021-10-06T18:27:02.672604Z"
+      }, 
+      "createTime": "2021-09-20T17:27:00.370037Z"
+    }, 
+    {
+      "comment": "Overall experience is good,all test and procedures going very smoothly. Thanks alot!!", 
+      "updateTime": "2021-09-20T17:18:44.343744Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnBq5zG45nuxwYvOrvu8i6lVp1ulIfdusinUD1hf3If5a2fLbCE_H1SRgJRNrbZsw4LUY7ITQ", 
+      "reviewId": "AbFvOqnBq5zG45nuxwYvOrvu8i6lVp1ulIfdusinUD1hf3If5a2fLbCE_H1SRgJRNrbZsw4LUY7ITQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtcA15hdNIwjFqpDXQZBPWO-e5Df0XHmY2O_-nvV=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Vishakhajbhatt Bhatt"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We are glad to hear that you had a great experience!", 
+        "updateTime": "2021-10-06T18:28:30.907851Z"
+      }, 
+      "createTime": "2021-09-20T17:17:40.774462Z"
+    }, 
+    {
+      "comment": "The doctors are very nice and friendly they provide you smooth service with exact appointment time. Everything was good plus i think the fee was also less compared to others. And they passed my medical to immigration within 3-4 days only.", 
+      "updateTime": "2021-09-20T15:16:43.543515Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkhn4Gq2ccysOraGxn7QF-KhRk1Rqm0Cw7lRKKsvB51WeN46uTetnlpnsJ4lowOL8o4Qs_DiQ", 
+      "reviewId": "AbFvOqkhn4Gq2ccysOraGxn7QF-KhRk1Rqm0Cw7lRKKsvB51WeN46uTetnlpnsJ4lowOL8o4Qs_DiQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMQ2Q-mp3D8OEYpGIooYhvM1BqmpLklfZ6FU3AIrdg=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "jashan dhiman"
+      }, 
+      "reviewReply": {
+        "comment": "Dr. Lianne's priority is to always ensure her patients have a great experience. We always try our best to send out cases as soon as possible to prevent any delays for anyones applications. Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-05T19:53:23.552536Z"
+      }, 
+      "createTime": "2021-09-20T15:16:43.543515Z"
+    }, 
+    {
+      "comment": "I booked an appointment at IMMEDEX for my immigration medical. The process and instructions were very smooth and the staff were very friendly and helpful. Overall experience was good.", 
+      "updateTime": "2021-09-17T15:16:15.548146Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqmKcxmIg6KdwBnGtJngFhdOg3Yxia1v0xIVqjWiRIJIFuoCfoB9sLjStf3ul3F4RtuqUMxk-A", 
+      "reviewId": "AbFvOqmKcxmIg6KdwBnGtJngFhdOg3Yxia1v0xIVqjWiRIJIFuoCfoB9sLjStf3ul3F4RtuqUMxk-A", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMR1xhYrVre7SO59zEJ6T7TQRuDK7-R_nWkrsElYtA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Shamar Simms"
+      }, 
+      "reviewReply": {
+        "comment": "Our team at Immedex always try our best to make sure that our guests leave the clinic with all their questions answered and have clear instructions on the steps after the medical! Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-06T18:30:18.548950Z"
+      }, 
+      "createTime": "2021-09-17T15:16:15.548146Z"
+    }, 
+    {
+      "comment": "I had my medical completed within an hour. I recommend IMMEDEX GTA if you are looking for medical for immigration.", 
+      "updateTime": "2021-09-15T03:26:54.783273Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOql0JYmFOZgf0utTWtWso_Mq1pa77zBFOc4f3kAkH68jNvMMlgrW6SMyMDO7UmY5HoPYRzV6AQ", 
+      "reviewId": "AbFvOql0JYmFOZgf0utTWtWso_Mq1pa77zBFOc4f3kAkH68jNvMMlgrW6SMyMDO7UmY5HoPYRzV6AQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMT-9VB0wNuDUqozWqmt66HnzhsaI7Seic1Py90TfA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "ZARIGS Rincon Granados"
+      }, 
+      "reviewReply": {
+        "comment": "Our Immedex team always try to prioritize our guests. We never want to take longer than anticipated and want to ensure that our guest always leave satisfied! Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-18T16:04:25.037363Z"
+      }, 
+      "createTime": "2021-09-15T03:26:54.783273Z"
+    }, 
+    {
+      "comment": "Dr. Lianne did a great job when I visited Immedex. She was friendly, helpful and ensure that she explain to me the procedure. The overall experience was good.", 
+      "updateTime": "2021-09-14T20:02:33.786310Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqmlqj9CBza3-MFiEyY2cQYAgQ0IxuP_YOc1eWHktEaAKBQLrHYUghcfBt4fy5HyE2U58q2nqQ", 
+      "reviewId": "AbFvOqmlqj9CBza3-MFiEyY2cQYAgQ0IxuP_YOc1eWHktEaAKBQLrHYUghcfBt4fy5HyE2U58q2nqQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtduFSBFwFfWPR-MpgfXowP730H_j33vtgP4ymuN=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Jean Aguilar"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration Medical! We agree that Dr. Lianne is one of the bests out there! Our priority is to make sure that all of our guests have a smooth/ convenient experience from start to finish!", 
+        "updateTime": "2021-10-18T16:08:32.395235Z"
+      }, 
+      "createTime": "2021-09-14T20:02:33.786310Z"
+    }, 
+    {
+      "comment": "I scheduled an appointment with IMMEDEX. The The process was smooth and quick and provided clear instructions. I  IMMEDEX GTA if you are looking for medical for immigration.", 
+      "updateTime": "2021-09-13T20:36:55.529616Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqnDR6BtidDQrTtJ-wdTk_piDaIf09EgrPYgBabaDtEOdtg7Ui-dSKNyCMlBukISxZAN0TaeLQ", 
+      "reviewId": "AbFvOqnDR6BtidDQrTtJ-wdTk_piDaIf09EgrPYgBabaDtEOdtg7Ui-dSKNyCMlBukISxZAN0TaeLQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMQaFojFCh-XDfKmihTMBZ1Xm31m99VSiEsM6Sc7LA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "t.saikrishna Goud"
+      }, 
+      "reviewReply": {
+        "comment": "We are glad to hear that your experience with Immedex went well! We always prioritize our guests and ensure that they have an amazing time with us. Thank you for trusting Immedex with your Immigration medical!", 
+        "updateTime": "2021-10-18T16:14:33.004347Z"
+      }, 
+      "createTime": "2021-09-13T20:26:02.328994Z"
+    }, 
+    {
+      "comment": "For my Immigration Medicals, I scheduled an appointment with IMMEDEX. All the steps were smooth, and the staff provided clear instructions. I had my medical completed within an hour. I recommend IMMEDEX GTA if you are looking for medical for immigration.", 
+      "updateTime": "2021-09-12T02:16:18.635729Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqk74OQtLPWCGVzzZGsq6JOg4d8a0B043S96hcj98pT5XZF5vNvri66f2F3cPCSO1pQCeNaydA", 
+      "reviewId": "AbFvOqk74OQtLPWCGVzzZGsq6JOg4d8a0B043S96hcj98pT5XZF5vNvri66f2F3cPCSO1pQCeNaydA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMRIkJOHhHb5D1fl3WOFoh4xjvpNELc0KLe3OujYqA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Govardhan R"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We always try to make sure that our guests are always satisfied with their visit at Immedex! Thank you for trusting Immedex with your Immigration Medical!", 
+        "updateTime": "2021-10-18T16:07:37.963688Z"
+      }, 
+      "createTime": "2021-09-12T02:16:18.635729Z"
+    }, 
+    {
+      "comment": "I booked an appointment at IMMEDEX for my Immigration Medicals. The whole process was seamless and the instructions provided by staff was clear and concise. My medical got completed within an hour. Reached there filled out the form did medical and done. If you are looking for medical for immigration I would recommend IMMEDEX GTA.", 
+      "updateTime": "2021-09-09T14:07:26.289394Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOql2X2jTb-ZNYmbCkOdF2PB6eym1_24yigtGbv0YQ8lNofcZjQCPT3Ihk_5h0q0FCp4DVPcuuA", 
+      "reviewId": "AbFvOql2X2jTb-ZNYmbCkOdF2PB6eym1_24yigtGbv0YQ8lNofcZjQCPT3Ihk_5h0q0FCp4DVPcuuA", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a-/AD_cMMSUcZ6WQ2PTnXnyCWNU8dumjpIUHyCqefUaSoyjUA=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Yesha Patel"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We always try to make sure that our guests are always satisfied with their visit at Immedex! Thank you for trusting Immedex with your Immigration Medical!", 
+        "updateTime": "2021-10-18T16:12:32.229966Z"
+      }, 
+      "createTime": "2021-09-09T14:07:26.289394Z"
+    }, 
+    {
+      "comment": "I visited IMMEDEX for my Immigration Medicals. The whole process was seamless and the instructions were clear. I booked my appointment and filled out a form after I reached there. There were no delays and long wait-times. The whole process got done well within an hour. The staff were very courteous and friendly.", 
+      "updateTime": "2021-09-09T13:32:46.148108Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkSd3_gp0Vmj7MJ6pwPlJisPfeyZ8ObxDFILuYpb70O7FwpTYgTATPbr52qCWt8zpd4OMqX", 
+      "reviewId": "AbFvOqkSd3_gp0Vmj7MJ6pwPlJisPfeyZ8ObxDFILuYpb70O7FwpTYgTATPbr52qCWt8zpd4OMqX", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtfytVwrHeT03xYyo5HvEgdWEMxAxZV43nTm3SUU1w=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Aishwarya Gopal"
+      }, 
+      "reviewReply": {
+        "comment": "Our team at Immedex always try to ensure that our guests have an amazing experience with us. Thank you for trusting Immedex with your Immigration Medical!", 
+        "updateTime": "2021-10-18T15:59:14.912434Z"
+      }, 
+      "createTime": "2021-09-09T13:32:46.148108Z"
+    }, 
+    {
+      "comment": "The staff at Immedex were very friendly and thorough. I arrived early and they were nice enough to accommodate me. I really recommend this place. Great job guys!", 
+      "updateTime": "2021-09-04T15:46:01.949841Z", 
+      "name": "accounts/104115286503443921797/locations/7191713197482487390/reviews/AbFvOqkE1sJ1E6E--MrSM9tF0KGipooh3oT0aosufhBDQpNaf9Hfn4-MRoY7G4_H4Q6Cuv3IZ5CYcQ", 
+      "reviewId": "AbFvOqkE1sJ1E6E--MrSM9tF0KGipooh3oT0aosufhBDQpNaf9Hfn4-MRoY7G4_H4Q6Cuv3IZ5CYcQ", 
+      "starRating": "FIVE", 
+      "reviewer": {
+        "profilePhotoUrl": "https://lh3.googleusercontent.com/a/AAcHTtcoQ0XMm9xjz2XsZtVGC_OXJ1No_urRxH4tpddU=s120-c-c0x00000000-cc-rp-mo-br100", 
+        "displayName": "Michael Clements"
+      }, 
+      "reviewReply": {
+        "comment": "Thank you for trusting Immedex with your Immigration medical! We always try to make sure that our guests are always satisfied with their visit at Immedex!", 
+        "updateTime": "2021-10-18T16:13:34.457718Z"
+      }, 
+      "createTime": "2021-09-04T15:46:01.949841Z"
+    }
+  ], 
+  "totalReviewCount": 32, 
+  "averageRating": 4.900000095367432
+}
