@@ -32,9 +32,9 @@ function injectWidget(classId,googleImage, googleReviewLink,postedReviews) {
                             <div class="col-lg-12 col-xs-6 ps-3">
                                 <span class="review-average align-middle pe-1"  style="font-size: 3vw;">4.9</span>
                                 <span>
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
                                     <img src="/Media/star-fill.svg" alt="4" class="review-star" style="width:10%; max-width: 25px;">
                                     <img src="/Media/star-fill.svg" alt="5" class="review-star" style="width:10%; max-width: 25px;">
                                 </span>
