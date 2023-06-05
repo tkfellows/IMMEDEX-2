@@ -2,8 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     injectWidget("google-reviews", 
-                "https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX/google-logo-9834.png",
-                // "/Media/google-logo-9834.png",
+                "https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/google-logo-9834.png",
                 "https://g.page/r/CWFnb1Q9ewzREB0/review",
                 "https://www.google.com/maps/place/IMMEDEX+GTA+Immigration+Medical+Exam+Centre/@43.763032,-79.2974992,17z/data=!3m1!5s0x89d4d1964d449d07:0x1459e3e90f838db3!4m7!3m6!1s0x89d4d33b7be4ab89:0xd10c7b3d546f6761!8m2!3d43.763032!4d-79.2953105!9m1!1b1"
                 );
@@ -33,9 +32,9 @@ function injectWidget(classId,googleImage, googleReviewLink,postedReviews) {
                             <div class="col-lg-12 col-xs-6 ps-3">
                                 <span class="review-average align-middle pe-1"  style="font-size: 3vw;">4.9</span>
                                 <span>
-                                    <img src="/Media/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="/Media/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="/Media/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2//Media/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
                                     <img src="/Media/star-fill.svg" alt="4" class="review-star" style="width:10%; max-width: 25px;">
                                     <img src="/Media/star-fill.svg" alt="5" class="review-star" style="width:10%; max-width: 25px;">
                                 </span>
