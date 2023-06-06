@@ -125,6 +125,7 @@ function appendCarouselReview(jsonData,classContainerTag,mediaPath) {
         // Making div element
         var div = document.createElement('div');
         div.setAttribute("alt",`Slide ${i+1}`);
+        div.setAttribute("style", "color: black");
         if ( i < 1 ) {
             div.setAttribute("class","carousel-item active");
         } else {
@@ -204,7 +205,7 @@ function fetchReviews(jsonPath) {
     })// Need to convert res object to json
     .then(data => { 
         appendCarouselIndicator(data.reviews,"carousel-indicators");
-        appendCarouselReview(data.reviews,"carousel-inner");
+        appendCarouselReview(data.reviews,"carousel-inner","https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media");
     })
     .catch(error => console.log('ERROR'))
 };
