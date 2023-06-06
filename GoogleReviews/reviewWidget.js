@@ -1,15 +1,4 @@
-// let accountId = "104115286503443921797";
-
-document.addEventListener('DOMContentLoaded', function() {
-    injectWidget("google-reviews", 
-                "https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/google-logo-9834.png",
-                "https://g.page/r/CWFnb1Q9ewzREB0/review",
-                "https://www.google.com/maps/place/IMMEDEX+GTA+Immigration+Medical+Exam+Centre/@43.763032,-79.2974992,17z/data=!3m1!5s0x89d4d1964d449d07:0x1459e3e90f838db3!4m7!3m6!1s0x89d4d33b7be4ab89:0xd10c7b3d546f6761!8m2!3d43.763032!4d-79.2953105!9m1!1b1"
-                );
-    fetchReviews();
-}, false);
-
-function injectWidget(classId,googleImage, googleReviewLink,postedReviews) {
+function injectWidget(classId,mediaPath,postedReviews,totalReviews,googleReviewLink) {
     var widgetDiv = document.getElementsByClassName(classId)[0];
     var div = document.createElement('div');
     div.innerHTML = 
@@ -24,19 +13,19 @@ function injectWidget(classId,googleImage, googleReviewLink,postedReviews) {
                         <!-- Heading -->
                         <row class="row justify-content-start">
                             <div class="col-12 col-xs-6" style="font-size:2vw;">
-                                <img src=${googleImage} style="width:50%; max-width: 125px;">
-                                <a class="review-count align-middle text-decoration-underline enable-button-pointers text-nowrap ps-1 pt-2" style="font-size: 0.65em;" href=${postedReviews}>32 Reviews</a>
+                                <img src="${mediaPath}/google-logo-9834.png", style="width:50%; max-width: 125px;">
+                                <a class="review-count align-middle text-decoration-underline enable-button-pointers text-nowrap ps-1 pt-2" style="font-size: 0.65em;" href=${postedReviews}>${totalReviews}</a>
                             </div>
                         </row>
                         <row class="row justify-content-start">
                             <div class="col-lg-12 col-xs-6 ps-3">
                                 <span class="review-average align-middle pe-1"  style="font-size: 3vw;">4.9</span>
                                 <span>
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="/Media/star-fill.svg" alt="4" class="review-star" style="width:10%; max-width: 25px;">
-                                    <img src="/Media/star-fill.svg" alt="5" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="${mediaPath}/star-fill.svg" alt="1" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="${mediaPath}/star-fill.svg" alt="2" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="${mediaPath}/star-fill.svg" alt="3" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="${mediaPath}/star-fill.svg" alt="4" class="review-star" style="width:10%; max-width: 25px;">
+                                    <img src="${mediaPath}/star-fill.svg" alt="5" class="review-star" style="width:10%; max-width: 25px;">
                                 </span>
                             </div>
                         </row>
@@ -47,7 +36,7 @@ function injectWidget(classId,googleImage, googleReviewLink,postedReviews) {
                     <div class="google-button">
                         <a href=${googleReviewLink} class="btn btn-success btn-sm" style="padding-top: 0px;">                     
                             <span class="text-nowrap " style="font-size: min(max(12px, 2vw), 18px); color: white">
-                                <img src="/Media/pencil-square.svg" alt="pencil" class="review-icon me-1" style="filter:invert(1); width: 1.25em;">
+                                <img src="${mediaPath}/pencil-square.svg" alt="pencil" class="review-icon me-1" style="filter:invert(1); width: 1.25em;">
                                 Write a Review
                             </span>
                         </a>
@@ -101,7 +90,7 @@ function appendCarouselIndicator(jsonData,carouselIndicatorClass) {
     }
 };
 
-function appendCarouselReview(jsonData,classContainerTag) {
+function appendCarouselReview(jsonData,classContainerTag,mediaPath) {
     var reviewContainer = document.getElementsByClassName(classContainerTag)[0];
     for (let i = 0; i < jsonData.length; i++) {
         var commentText = '';
@@ -127,9 +116,9 @@ function appendCarouselReview(jsonData,classContainerTag) {
         var starRating = '';
         for (let j = 0; j < 5; j++){
             if (j < ratingDict[jsonData[i].starRating]) {
-                starRating += '<img src="/Media/star-fill.svg" alt="1" class="review-star" style="width:15%; max-width: 24px;">                ';
+                starRating += `<img src="${mediaPath}/star-fill.svg" alt="1" class="review-star" style="width:15%; max-width: 24px;">`;
             } else {
-                starRating += '<img src="/Media/star-empty.svg" alt="1" class="review-star" style="width:15%; max-width: 24px;">                ';
+                starRating += `<img src="${mediaPath}/star-empty.svg" alt="1" class="review-star" style="width:15%; max-width: 24px;">`;
             }
         }
 
@@ -193,8 +182,18 @@ function handleErrors(response) {
     return response;
 };
 
-function fetchReviews() {
-    fetch('http://127.0.0.1:5500/GoogleReviews/immedexReviews.json')
+document.addEventListener('DOMContentLoaded', function() {
+    injectWidget("google-reviews", 
+                "https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media",
+                "https://www.google.com/maps/place/IMMEDEX+GTA+Immigration+Medical+Exam+Centre/@43.763032,-79.2974992,17z/data=!3m1!5s0x89d4d1964d449d07:0x1459e3e90f838db3!4m7!3m6!1s0x89d4d33b7be4ab89:0xd10c7b3d546f6761!8m2!3d43.763032!4d-79.2953105!9m1!1b1",
+                "31 Reviews",
+                "https://g.page/r/CWFnb1Q9ewzREB0/review"
+                );
+    fetchReviews("https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2");
+}, false);
+
+function fetchReviews(jsonPath) {
+    fetch(`${jsonPath}/GoogleReviews/immedexReviews.json`)
     .then(res => {
         if (res.ok) {
             console.log('Collected data from local API for adding item');
