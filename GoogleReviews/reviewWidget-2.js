@@ -204,7 +204,7 @@ function fetchReviews(jsonPath) {
     })// Need to convert res object to json
     .then(data => { 
         appendCarouselIndicator(data.reviews,"carousel-indicators");
-        appendCarouselReview(data.reviews,"carousel-inner");
+        appendCarouselReview(data.reviews,"carousel-inner","https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media");
     })
     .catch(error => console.log('ERROR'))
 };
