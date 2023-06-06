@@ -125,6 +125,7 @@ function appendCarouselReview(jsonData,classContainerTag,mediaPath) {
         // Making div element
         var div = document.createElement('div');
         div.setAttribute("alt",`Slide ${i+1}`);
+        div.setAttribute("style", "black");
         if ( i < 1 ) {
             div.setAttribute("class","carousel-item active");
         } else {
