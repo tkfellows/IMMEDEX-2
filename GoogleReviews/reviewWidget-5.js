@@ -34,7 +34,7 @@ function injectWidget(classId,mediaPath,postedReviews,totalReviews,googleReviewL
                 </div>
                 <div class="col-4 col-sm-3 col-md-3 col-lg-2 me-lg-5">
                     <div class="google-button">
-                        <a href=${googleReviewLink} class="btn btn-success btn-sm" style="padding-top: 0px;">                     
+                        <a href=${googleReviewLink} class="btn btn-success btn-sm" style="padding-right: 30px;">                     
                             <span class="text-nowrap " style="font-size: min(max(12px, 2vw), 18px); color: white">
                                 <img src="${mediaPath}/pencil-square.svg" alt="pencil" class="review-icon me-1" style="filter:invert(1); width: 1.25em;">
                                 Write a Review
