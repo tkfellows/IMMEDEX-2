@@ -187,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
     injectWidget("google-reviews", 
                 "https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2/Media",
                 "https://www.google.com/maps/place/IMMEDEX+GTA+Immigration+Medical+Exam+Centre/@43.763032,-79.2974992,17z/data=!3m1!5s0x89d4d1964d449d07:0x1459e3e90f838db3!4m7!3m6!1s0x89d4d33b7be4ab89:0xd10c7b3d546f6761!8m2!3d43.763032!4d-79.2953105!9m1!1b1",
-                "31 Reviews",
+                "32 Reviews",
                 "https://g.page/r/CWFnb1Q9ewzREB0/review"
                 );
     fetchReviews("https://cdn.jsdelivr.net/gh/tkfellows/IMMEDEX-2");
