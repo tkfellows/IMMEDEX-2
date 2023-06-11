@@ -5,6 +5,10 @@ section{
     padding :5px 10px;
 }
 
+*::after {
+    box-sizing: inherit !important;
+  }
+
 .review-stars ul {
     display: inline-block;
     list-style: none;
