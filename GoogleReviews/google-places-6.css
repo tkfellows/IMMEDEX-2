@@ -5,6 +5,10 @@ section{
     padding :5px 10px;
 }
 
+*, ::after, ::before {
+    
+}
+
 .review-stars ul {
     display: inline-block;
     list-style: none;
