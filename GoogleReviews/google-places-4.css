@@ -5,7 +5,7 @@ section{
     padding :5px 10px;
 }
 *, ::after, ::before {
-    box-sizing: content-box;
+/*     box-sizing: content-box; */
 }
 
 .review-stars ul {
