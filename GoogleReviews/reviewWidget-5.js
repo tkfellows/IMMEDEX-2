@@ -6,7 +6,7 @@ function injectWidget(classId,mediaPath,postedReviews,totalReviews,googleReviewL
 
     <!-- Google Logo section including review stars -->
     <section>
-        <div id="review-header" style="background-color:rgba(255,255,255,0.5);" class="container-xl rounded-3 pe-5 py-3">
+        <div id="review-header" style="background-color:rgba(255,255,255,0.5);" class="container-xl rounded-3">
             <div class="row d-flex justify-content-between align-items-center">
                 <div class="col-8 col-xs-2 col-med-4 col-lg-7">
                     <div class="container-fluid">
