@@ -6,7 +6,7 @@ section{
 }
 
 *, ::after, ::before {
-    
+    box-sizing: content-box;
 }
 
 .review-stars ul {
