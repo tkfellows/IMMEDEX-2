@@ -4,9 +4,6 @@
 section{
     padding :5px 10px;
 }
-*, ::after, ::before {
-/*     box-sizing: content-box; */
-}
 
 .review-stars ul {
     display: inline-block;
